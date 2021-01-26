@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CBNU-Lecture-Crawl", "CBNU-Lecture-Crawl\CBNU-Lecture-Crawl.csproj", "{D005707D-7483-4C58-9144-67E43C28EED8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D005707D-7483-4C58-9144-67E43C28EED8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D005707D-7483-4C58-9144-67E43C28EED8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D005707D-7483-4C58-9144-67E43C28EED8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D005707D-7483-4C58-9144-67E43C28EED8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FC85E87F-0548-402C-B1E0-3CCB04A976E3}
+	EndGlobalSection
+EndGlobal
